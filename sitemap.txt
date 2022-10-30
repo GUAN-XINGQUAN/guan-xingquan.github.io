@@ -1,6 +1,6 @@
-http://example.com/2022/05/28/Introduction/
 http://example.com/Publications/index.html
 http://example.com/2022/05/29/News-and-Updates/
+http://example.com/2022/05/28/Introduction/
 http://example.com/Photo-Video-Gallery/index.html
 http://example.com/Research/index.html
 http://example.com/Resources/index.html
