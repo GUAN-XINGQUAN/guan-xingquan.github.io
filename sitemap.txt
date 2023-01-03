@@ -1,15 +1,15 @@
+http://example.com/About/index.html
+http://example.com/Research/index.html
 http://example.com/Publications/index.html
 http://example.com/2022/05/29/News-and-Updates/
 http://example.com/2022/05/28/Introduction/
 http://example.com/Photo-Video-Gallery/index.html
-http://example.com/Research/index.html
 http://example.com/Resources/index.html
 http://example.com/Blog/index.html
 http://example.com/2021/03/09/Modeling-parameters-for-steel-beams-using-IMK/
 http://example.com/2021/03/09/Updated-Modeling-parameters-for-steel-columns-using-IMK/
 http://example.com/2021/03/08/Week-1-Linear-Regression/
 http://example.com/2021/03/09/Week-2-Logistic-Regression/
-http://example.com/About/index.html
 http://example.com/Teaching/index.html
 http://example.com/2021/03/06/test-my-site/
 http://example.com/2022/05/29/hello-world/
