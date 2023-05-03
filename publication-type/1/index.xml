@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Guan&#39;s Exploration</title>
+    <link>https://guan-xingquan.github.io/publication-type/1/</link>
+      <atom:link href="https://guan-xingquan.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guan-xingquan.github.io/media/icon_hu036ee6046b4cc3d459893682a6c66e70_14844_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://guan-xingquan.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Collaborative filtering-based collapse fragility assessment</title>
+      <link>https://guan-xingquan.github.io/publication/conference-paper-6/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/conference-paper-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative assessment of mechanistic and data-driven models to estimate building responses</title>
+      <link>https://guan-xingquan.github.io/publication/conference-paper-5/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/conference-paper-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Python-based platform to automate seismic design and nonlinear analysis of steel moment frames</title>
+      <link>https://guan-xingquan.github.io/publication/conference-paper-4/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/conference-paper-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The case for incorporating artificial intelligence and automation in performance-based seismic design</title>
+      <link>https://guan-xingquan.github.io/publication/conference-paper-3/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/conference-paper-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic performance of a self-centering steel moment frame building</title>
+      <link>https://guan-xingquan.github.io/publication/conference-paper-2/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/conference-paper-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric study on hysteretic behavior of doubler plate-reinforced tubular T-joints after fire exposure</title>
+      <link>https://guan-xingquan.github.io/publication/conference-paper-1/</link>
+      <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/conference-paper-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

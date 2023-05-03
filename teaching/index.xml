@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course List | Guan&#39;s Exploration</title>
+    <link>https://guan-xingquan.github.io/teaching/</link>
+      <atom:link href="https://guan-xingquan.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Course List</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guan-xingquan.github.io/media/icon_hu036ee6046b4cc3d459893682a6c66e70_14844_512x512_fill_lanczos_center_3.png</url>
+      <title>Course List</title>
+      <link>https://guan-xingquan.github.io/teaching/</link>
+    </image>
+    
+    <item>
+      <title>CHIN1 Elementary Modern Chinese</title>
+      <link>https://guan-xingquan.github.io/teaching/elementary-modern-chinese-1/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/teaching/elementary-modern-chinese-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Teaching Fellow&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Term&lt;/strong&gt;: Fall 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Department of Asian Languages and Cultures, University of California, Los Angeles&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Description&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Greet people with proper titles&lt;/li&gt;
+&lt;li&gt;Count numbers&lt;/li&gt;
+&lt;li&gt;Basic structure of Chinese characters&lt;/li&gt;
+&lt;li&gt;Phonetic symbols of Chinese&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CHIN2 Elementary Modern Chinese</title>
+      <link>https://guan-xingquan.github.io/teaching/elementary-modern-chinese-2/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/teaching/elementary-modern-chinese-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Teaching Fellow&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Term&lt;/strong&gt;: Fall 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Department of Asian Languages and Cultures, University of California, Los Angeles&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Description&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Express different tenses by using different sentence structures&lt;/li&gt;
+&lt;li&gt;Short converstation in different scenarios such as subway station, restaurant, etc.&lt;/li&gt;
+&lt;li&gt;Advanced verbs and nouns in Chinese&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>C&amp;EE 241 Advanced Steel Structures</title>
+      <link>https://guan-xingquan.github.io/teaching/advanced-steel-structures/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/teaching/advanced-steel-structures/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Teaching Assistant&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Term&lt;/strong&gt;: Spring 2019, Spring 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Department of Civil &amp;amp; Environmental Engineering, University of California, Los Angeles&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Description&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Composite beam design&lt;/li&gt;
+&lt;li&gt;Floor vibration&lt;/li&gt;
+&lt;li&gt;Seismic loading&lt;/li&gt;
+&lt;li&gt;Moment frame design&lt;/li&gt;
+&lt;li&gt;Eccentrically braced frame&lt;/li&gt;
+&lt;li&gt;Concentrically braced frame&lt;/li&gt;
+&lt;li&gt;Buckling restrained braced frame&lt;/li&gt;
+&lt;li&gt;Steel plate shear walls&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>C&amp;EE 235 Advanced Structural Analysis</title>
+      <link>https://guan-xingquan.github.io/teaching/advanced-structural-analysis/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/teaching/advanced-structural-analysis/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Teaching Fellow&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Term&lt;/strong&gt;: Fall 2018, Fall 2019&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: Department of Civil &amp;amp; Environmental Engineering, University of California, Los Angeles&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Description&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand essential concepts of structural analysis: equilibrium, compatibility, static determinacy and indeterminacy, 1st or 2nd order elastic analysis, etc.&lt;/li&gt;
+&lt;li&gt;Analyze statically loaded structures using various methods: direct stiffness method, flexibility method, principle of virtual forces, and principle of virtual displacements.&lt;/li&gt;
+&lt;li&gt;Impelement stiffness method using computer programming.&lt;/li&gt;
+&lt;li&gt;Analyze structures&amp;rsquo; response to thermal and self-straining (pre-stressing) loads.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>C&amp;EE 144 Structural System Design</title>
+      <link>https://guan-xingquan.github.io/teaching/structural-system-design/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/teaching/structural-system-design/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: Teaching Assistant&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Term&lt;/strong&gt;: Spring 2018&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Institution&lt;/strong&gt;: Department of Civil &amp;amp; Environmental Engineering, University of California, Los Angeles&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Description&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provide an overview of building structural systems and their performance&lt;/li&gt;
+&lt;li&gt;Gain familiarity with building codes and their implementation&lt;/li&gt;
+&lt;li&gt;Acquire basic knowledge for evaluating, selecting, and designing building structural systems&lt;/li&gt;
+&lt;li&gt;Acquire basic knowledge for preparing and presenting structural designs for buildings&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

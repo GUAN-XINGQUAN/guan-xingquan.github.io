@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Guan&#39;s Exploration</title>
+    <link>https://guan-xingquan.github.io/category/news/</link>
+      <atom:link href="https://guan-xingquan.github.io/category/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guan-xingquan.github.io/media/icon_hu036ee6046b4cc3d459893682a6c66e70_14844_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://guan-xingquan.github.io/category/news/</link>
+    </image>
+    
+    <item>
+      <title>New Paper is Published!</title>
+      <link>https://guan-xingquan.github.io/post/guan-multi-source-paper/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/post/guan-multi-source-paper/</guid>
+      <description>&lt;p&gt;Dr. Peng-Yu Chen and Dr. Xingquan Guan have published a paper that proposes a multi-source data-driven approach. This data-driven approach leverages the image and well-tabulated data to predict the seismic response of non-ductile reinforced concrete structures in southern California. This &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0141029622015280&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; provides the access to the paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Paper is Published!</title>
+      <link>https://guan-xingquan.github.io/post/guan-bias-variance-paper/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/post/guan-bias-variance-paper/</guid>
+      <description>&lt;p&gt;Together with Prof. Henry Burton, Xingquan Guan has published a paper that discusses the bias-variance trade off and the associated implications to structural engineering applications. This &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S2352012422009018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; provides the access to the paper and this &lt;a href=&#34;https://www.youtube.com/watch?v=qVwCSXN8O5A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt; summarizes the key takeaways.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Start a Journey as a Senior Data Scientist in Fintech</title>
+      <link>https://guan-xingquan.github.io/post/guan-zest-start/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/post/guan-zest-start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receive 12NCEE Registration Grant</title>
+      <link>https://guan-xingquan.github.io/post/guan-12ncee-grant/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/post/guan-12ncee-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Start Working a Postdoctoral Scholar</title>
+      <link>https://guan-xingquan.github.io/post/guan-post-doc-start/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/post/guan-post-doc-start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ph.D. Complete</title>
+      <link>https://guan-xingquan.github.io/post/guan-phd-complete/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/post/guan-phd-complete/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

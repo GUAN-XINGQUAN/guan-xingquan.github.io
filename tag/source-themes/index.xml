@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Guan&#39;s Exploration</title>
+    <link>https://guan-xingquan.github.io/tag/source-themes/</link>
+      <atom:link href="https://guan-xingquan.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guan-xingquan.github.io/media/icon_hu036ee6046b4cc3d459893682a6c66e70_14844_512x512_fill_lanczos_center_3.png</url>
+      <title>Source Themes</title>
+      <link>https://guan-xingquan.github.io/tag/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>A multi-source data-driven approach for evaluating the seismic response of non-ductile reinforced concrete moment frames</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-15/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StEER 2022 Mw 5.6 Indonesia Earthquake Preliminary Virtual Reconnaissance Report (PVRR)</title>
+      <link>https://guan-xingquan.github.io/publication/report-1/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/report-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bias-variance tradeoff in machine learning: Theoretical formulation and implications to structural engineering applications</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-14/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accurate prediction of concrete compressive strength based on explainable features using deep learning</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-13/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fire resistance behavior of T-stub joint components under transient heat transfer conditions</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-12/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic drift demand estimation for steel moment frame buildings: from mechanics-based to data-driven models</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-11/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python-based computational platform to automate seismic design, nonlinear structural model construction and analysis of steel moment resisting frames</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-9/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A database of seismic designs, nonlinear models, and seismic responses for steel moment resisting frame buildings</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-10/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic behavior of CHS-SHS tubular T-joints subjected to low-velocity impact loading</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-8/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultimate strength of tubular T-joints reinforced with doubler plates after fire exposure</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-7/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic performance of a self-centering steel moment frame building: from component-level modeling to economic loss assessment</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-6/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fire-resistance behavior of completely overlapped tubular joints under lap brace axial loading</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-5/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hysteretic behaviour of SHS brace-H-shaped chord T-joints with transverse stiffeners</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-3/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation on the fatigue behaviour of heat-treated tubular t-joints</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-4/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fire resistance behaviour of tubular T-joints reinforced with collar plates</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-2/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hysteretic behaviour of tubular T-joints reinforced with doubler plates after fire exposure</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-1/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

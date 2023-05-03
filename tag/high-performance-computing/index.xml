@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>High-Performance Computing | Guan&#39;s Exploration</title>
+    <link>https://guan-xingquan.github.io/tag/high-performance-computing/</link>
+      <atom:link href="https://guan-xingquan.github.io/tag/high-performance-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>High-Performance Computing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guan-xingquan.github.io/media/icon_hu036ee6046b4cc3d459893682a6c66e70_14844_512x512_fill_lanczos_center_3.png</url>
+      <title>High-Performance Computing</title>
+      <link>https://guan-xingquan.github.io/tag/high-performance-computing/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Risk Assessment of Gas/Water Transmission Systems in Southern California (2021 - 2022)</title>
+      <link>https://guan-xingquan.github.io/project/probabilistic-risk-assessment-of-gas-water-transmission-systems-in-southern-california/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/project/probabilistic-risk-assessment-of-gas-water-transmission-systems-in-southern-california/</guid>
+      <description>&lt;p&gt;The gas/water transmission pipeline system underpins a critical service that is foundational to a community’s well-being. Given its overall importance to social and economic development, it is essential to establish a more robust and reliable model that quantifies the seismic vulnerability of the pipeline system. In the earthquake-affected region, the pipeline either crosses the earthquake fault or is parallel to the fault direction. In the former case, the permanent ground motion deformation governs the pipeline response, and static analysis shall be employed. In the latter case, transient ground deformation dominates the pipe behavior, and dynamic analysis should be adopted. This project analyzes the pipelines with all possible soil and pipe parameters in Southern California and eventually establishes a probabilistic risk assessment model. Such a model allows the stakeholders (e.g., the department of water &amp;amp; power) to know which part of the pipeline system is more vulnerable to the earthquake, enabling them to make more informed decisions when they would like to schedule maintenance activities.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

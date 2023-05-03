@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Guan&#39;s Exploration</title>
+    <link>https://guan-xingquan.github.io/tag/machine-learning/</link>
+      <atom:link href="https://guan-xingquan.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guan-xingquan.github.io/media/icon_hu036ee6046b4cc3d459893682a6c66e70_14844_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>https://guan-xingquan.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Performance-Based Analytics-Driven Seismic Design of Steel Moment Frame Buildings (2018 - 2021)</title>
+      <link>https://guan-xingquan.github.io/project/performance-based-analytics-driven-seismic-design/</link>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/project/performance-based-analytics-driven-seismic-design/</guid>
+      <description>&lt;p&gt;​With the embrace of the performance-based seismic design as the state-of-the-art design method, recent emphasis has been placed on eliminating its drawbacks and facilitating its application in practice. This project aims to propose an alternative design method: performance-based analytics-driven seismic design, which is applied to steel moment resisting frame (SMRF) buildings. In this project, a Python-based computational platform was developed to automate the seismic design, structural modeling, and seismic response simulation. Then a comprehensive database including more than 600 SMRF designs and their responses are constructed. Using the database, three machine learning-based data-driven models are developed to estimate the seismic drift demand in SMRFs and the efficacy of newly-developed and existing model is investigated. Finally, a set of surrogate models are created to estimate the probabilistic distribution of engineering demand parameters, which are further adopted to evaluate the earthquake-induced economic losses.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

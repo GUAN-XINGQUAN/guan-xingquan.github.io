@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Guan&#39;s Exploration</title>
+    <link>https://guan-xingquan.github.io/project/</link>
+      <atom:link href="https://guan-xingquan.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guan-xingquan.github.io/media/icon_hu036ee6046b4cc3d459893682a6c66e70_14844_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://guan-xingquan.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Risk Assessment of Gas/Water Transmission Systems in Southern California (2021 - 2022)</title>
+      <link>https://guan-xingquan.github.io/project/probabilistic-risk-assessment-of-gas-water-transmission-systems-in-southern-california/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/project/probabilistic-risk-assessment-of-gas-water-transmission-systems-in-southern-california/</guid>
+      <description>&lt;p&gt;The gas/water transmission pipeline system underpins a critical service that is foundational to a community’s well-being. Given its overall importance to social and economic development, it is essential to establish a more robust and reliable model that quantifies the seismic vulnerability of the pipeline system. In the earthquake-affected region, the pipeline either crosses the earthquake fault or is parallel to the fault direction. In the former case, the permanent ground motion deformation governs the pipeline response, and static analysis shall be employed. In the latter case, transient ground deformation dominates the pipe behavior, and dynamic analysis should be adopted. This project analyzes the pipelines with all possible soil and pipe parameters in Southern California and eventually establishes a probabilistic risk assessment model. Such a model allows the stakeholders (e.g., the department of water &amp;amp; power) to know which part of the pipeline system is more vulnerable to the earthquake, enabling them to make more informed decisions when they would like to schedule maintenance activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance-Based Analytics-Driven Seismic Design of Steel Moment Frame Buildings (2018 - 2021)</title>
+      <link>https://guan-xingquan.github.io/project/performance-based-analytics-driven-seismic-design/</link>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/project/performance-based-analytics-driven-seismic-design/</guid>
+      <description>&lt;p&gt;​With the embrace of the performance-based seismic design as the state-of-the-art design method, recent emphasis has been placed on eliminating its drawbacks and facilitating its application in practice. This project aims to propose an alternative design method: performance-based analytics-driven seismic design, which is applied to steel moment resisting frame (SMRF) buildings. In this project, a Python-based computational platform was developed to automate the seismic design, structural modeling, and seismic response simulation. Then a comprehensive database including more than 600 SMRF designs and their responses are constructed. Using the database, three machine learning-based data-driven models are developed to estimate the seismic drift demand in SMRFs and the efficacy of newly-developed and existing model is investigated. Finally, a set of surrogate models are created to estimate the probabilistic distribution of engineering demand parameters, which are further adopted to evaluate the earthquake-induced economic losses.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fire Resistance Behavior of Welded Tubular Structures (2013 - 2016)</title>
+      <link>https://guan-xingquan.github.io/project/fire-resistance-behavior-of-welded-tubular-structures/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/project/fire-resistance-behavior-of-welded-tubular-structures/</guid>
+      <description>&lt;p&gt;Welded tubular structures have been widely used in large-span structures, such as stadiums, television towers, airport terminals, and offshore jacket platforms. In these structures, tubular joints serve as essential components to connect different branches. Steel material is susceptible to high temperatures, which makes the tubular joints vulnerable under fire conditions. The relevant design guidelines (such as CIDECT and Eurocode 3) provide limited details on the performance of these joints at elevated temperatures. To enhance the understanding of the tubular joints’ fire resistance behavior, this project involved a series of full-scale experimental tests and disclosed the joint’s failure mechanism, force-deformation development, and thermal response. Then a generic finite element framework was proposed to simulate the tubular joint’s response during the entire firing process, including pre-fire, heating, cooling, and post-fire stages. After validating the finite element simulation against the experimental data, many finite element models were constructed to quantify the influence of various joint parameters on fire resistance. Based on the data collected from the experimental tests and numerical simulations, a series of equations were proposed to predict the maximum temperature various joints could sustain without losing too much strength. Such equations fill the blank area of the associated design guidelines.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
