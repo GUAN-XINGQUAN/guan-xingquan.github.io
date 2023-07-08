@@ -2,12 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://guan-xingquan.github.io/publication-type/2/</loc>
+    <lastmod>2023-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://guan-xingquan.github.io/tag/academic/</loc>
     <lastmod>2023-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://guan-xingquan.github.io/categories/</loc>
     <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/publication/journal-article-16/</loc>
+    <lastmod>2023-06-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://guan-xingquan.github.io/post/guan-collaborative-filtering-paper/</loc>
@@ -22,6 +30,18 @@
     <lastmod>2023-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://guan-xingquan.github.io/publication_types/</loc>
+    <lastmod>2023-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/publication/</loc>
+    <lastmod>2023-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/tag/source-themes/</loc>
+    <lastmod>2023-06-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://guan-xingquan.github.io/tags/</loc>
     <lastmod>2023-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,23 +50,7 @@
     <lastmod>2023-04-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://guan-xingquan.github.io/publication-type/2/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://guan-xingquan.github.io/publication/journal-article-15/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://guan-xingquan.github.io/publication_types/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://guan-xingquan.github.io/publication/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://guan-xingquan.github.io/tag/source-themes/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
