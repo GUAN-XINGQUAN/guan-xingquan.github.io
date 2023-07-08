@@ -5,12 +5,21 @@
     <link>https://guan-xingquan.github.io/post/</link>
       <atom:link href="https://guan-xingquan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://guan-xingquan.github.io/media/icon_hu036ee6046b4cc3d459893682a6c66e70_14844_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://guan-xingquan.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New Paper is Published!</title>
+      <link>https://guan-xingquan.github.io/post/guan-collaborative-filtering-paper/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/post/guan-collaborative-filtering-paper/</guid>
+      <description>&lt;p&gt;Working with Dr. Henry Burton, Xingquan Guan has published a paper in Earthquake Engineering &amp;amp; Structural Dynamics. This new paper presents a computationally efficient collapse fragility assessment approach that leverages the collaborative filtering (CF) technique. This &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1002/eqe.3963&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; provides the access to the paper.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New Paper is Published!</title>
