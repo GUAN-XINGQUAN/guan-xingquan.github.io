@@ -5,12 +5,21 @@
     <link>https://guan-xingquan.github.io/tag/academic/</link>
       <atom:link href="https://guan-xingquan.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://guan-xingquan.github.io/media/icon_hu036ee6046b4cc3d459893682a6c66e70_14844_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://guan-xingquan.github.io/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>New Paper is Published!</title>
+      <link>https://guan-xingquan.github.io/post/guan-lstm-paper/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/post/guan-lstm-paper/</guid>
+      <description>&lt;p&gt;Working with Dr. Jianze Wang&amp;rsquo;s lab at Sichuan University, we have published a paper that presents a deep-learning based approach to predict floor response spectrum, which is an essential element in non-structural component design. This &lt;a href=&#34;https://authors.elsevier.com/c/1hj3GW4G4bHqc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; provides the free access to the paper before October 26, 2023.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New Paper is Published!</title>
