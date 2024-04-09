@@ -2,31 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://guan-xingquan.github.io/publication-type/2/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
+    <loc>https://guan-xingquan.github.io/tag/academic/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://guan-xingquan.github.io/tag/academic/</loc>
-    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+    <loc>https://guan-xingquan.github.io/categories/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/category/news/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/post/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/post/guan-zest-promotion-lead/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/tags/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/publication-type/2/</loc>
+    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://guan-xingquan.github.io/publication/journal-article-17/</loc>
     <lastmod>2023-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://guan-xingquan.github.io/categories/</loc>
-    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://guan-xingquan.github.io/post/guan-lstm-paper/</loc>
-    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://guan-xingquan.github.io/category/news/</loc>
-    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://guan-xingquan.github.io/post/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -40,10 +48,6 @@
   </url><url>
     <loc>https://guan-xingquan.github.io/tag/source-themes/</loc>
     <lastmod>2023-09-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://guan-xingquan.github.io/tags/</loc>
-    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://guan-xingquan.github.io/publication/journal-article-16/</loc>
