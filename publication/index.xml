@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Guan&#39;s Exploration</title>
+    <title>Publications | Guan&#39;s Paradise</title>
     <link>https://guan-xingquan.github.io/publication/</link>
       <atom:link href="https://guan-xingquan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://guan-xingquan.github.io/media/icon_hu036ee6046b4cc3d459893682a6c66e70_14844_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://guan-xingquan.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Video comprehension-based approach for seismic damage recognition of freestanding non-structural components</title>
+      <link>https://guan-xingquan.github.io/publication/journal-article-18/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/publication/journal-article-18/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An adapted LSTM-DRRNet approach for predicting floor acceleration response spectrum</title>

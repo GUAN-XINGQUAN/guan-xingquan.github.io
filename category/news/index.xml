@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News | Guan&#39;s Exploration</title>
+    <title>News | Guan&#39;s Paradise</title>
     <link>https://guan-xingquan.github.io/category/news/</link>
       <atom:link href="https://guan-xingquan.github.io/category/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://guan-xingquan.github.io/media/icon_hu036ee6046b4cc3d459893682a6c66e70_14844_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://guan-xingquan.github.io/category/news/</link>
     </image>
+    
+    <item>
+      <title>New Paper is Published!</title>
+      <link>https://guan-xingquan.github.io/post/guan-video-comprehension-paper/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/post/guan-video-comprehension-paper/</guid>
+      <description>&lt;p&gt;Traiditonal methods for identifying nonstructural damage often rely on resource-intensive on-site inspections, posing potential safety risks for inspectors. Our recent paper introduces a video-comprehension model designed to analyze the moving trajectory and potential failure modes of nonstructural components during earthquakes, directly from video footage.&lt;/p&gt;
+&lt;p&gt;A rigorous examination revealed that our model demonstrates remarkable performance, even when applied to uncommon nonstructural components it hasn’t seen in the training stage. This suggests the model can learn damage pattern recognition from video rather than simply memorizing the underlying data.&lt;/p&gt;
+&lt;p&gt;This &lt;a href=&#34;https://authors.elsevier.com/c/1iwFPW4G4f4L8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; provides free access to the published work on Engineering Structures until June 2, 2024.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Promotion to Lead Data Scientist</title>

@@ -2,32 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://guan-xingquan.github.io/publication-type/2/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://guan-xingquan.github.io/tag/academic/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://guan-xingquan.github.io/categories/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/post/guan-video-comprehension-paper/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://guan-xingquan.github.io/category/news/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://guan-xingquan.github.io/post/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/publication_types/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/publication/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/tag/source-themes/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/tags/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/publication/journal-article-18/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://guan-xingquan.github.io/post/guan-zest-promotion-lead/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://guan-xingquan.github.io/tags/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://guan-xingquan.github.io/publication-type/2/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://guan-xingquan.github.io/publication/journal-article-17/</loc>
@@ -36,18 +56,6 @@
   </url><url>
     <loc>https://guan-xingquan.github.io/post/guan-lstm-paper/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://guan-xingquan.github.io/publication_types/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://guan-xingquan.github.io/publication/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://guan-xingquan.github.io/tag/source-themes/</loc>
-    <lastmod>2023-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://guan-xingquan.github.io/publication/journal-article-16/</loc>
@@ -70,6 +78,14 @@
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://guan-xingquan.github.io/talk/ai-powered-design-and-analysis-of-structural-systems-passed/</loc>
+    <lastmod>2022-12-14T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/event/</loc>
+    <lastmod>2022-12-14T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://guan-xingquan.github.io/publication-type/4/</loc>
     <lastmod>2022-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -90,10 +106,6 @@
     <lastmod>2022-06-28T16:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://guan-xingquan.github.io/event/</loc>
-    <lastmod>2022-06-28T16:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://guan-xingquan.github.io/publication-type/1/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -106,8 +118,16 @@
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://guan-xingquan.github.io/talk/physics-based-and-ai-informed-design-and-evaluation-of-infrastructure-subjected-to-multiple-hazards-passed/</loc>
+    <lastmod>2022-02-28T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://guan-xingquan.github.io/post/guan-12ncee-grant/</loc>
     <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://guan-xingquan.github.io/talk/design-and-evaluation-of-smrf-buildings-from-mechanic-based-to-data-driven-models-passed/</loc>
+    <lastmod>2021-10-18T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://guan-xingquan.github.io/publication/conference-paper-5/</loc>

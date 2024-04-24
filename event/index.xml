@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Guan&#39;s Exploration</title>
+    <title>Recent &amp; Upcoming Talks | Guan&#39;s Paradise</title>
     <link>https://guan-xingquan.github.io/event/</link>
       <atom:link href="https://guan-xingquan.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 16:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://guan-xingquan.github.io/media/icon_hu036ee6046b4cc3d459893682a6c66e70_14844_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>AI-powered design and analysis of structural systems (Passed)</title>
+      <link>https://guan-xingquan.github.io/talk/ai-powered-design-and-analysis-of-structural-systems-passed/</link>
+      <pubDate>Wed, 14 Dec 2022 11:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/talk/ai-powered-design-and-analysis-of-structural-systems-passed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Collaborative filter-based collapse fragility assessment (Passed)</title>
       <link>https://guan-xingquan.github.io/talk/collaborative-filter-based-collapse-fragility-assessment-passed/</link>
       <pubDate>Tue, 28 Jun 2022 16:30:00 +0000</pubDate>
       <guid>https://guan-xingquan.github.io/talk/collaborative-filter-based-collapse-fragility-assessment-passed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-based and AI-informed design and evaluation of infrastructure subjected to multiple hazards (Passed)</title>
+      <link>https://guan-xingquan.github.io/talk/physics-based-and-ai-informed-design-and-evaluation-of-infrastructure-subjected-to-multiple-hazards-passed/</link>
+      <pubDate>Mon, 28 Feb 2022 12:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/talk/physics-based-and-ai-informed-design-and-evaluation-of-infrastructure-subjected-to-multiple-hazards-passed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and evaluation of SMRF buildings - from mechanic-based to data-driven models (Passed)</title>
+      <link>https://guan-xingquan.github.io/talk/design-and-evaluation-of-smrf-buildings-from-mechanic-based-to-data-driven-models-passed/</link>
+      <pubDate>Mon, 18 Oct 2021 12:00:00 +0000</pubDate>
+      <guid>https://guan-xingquan.github.io/talk/design-and-evaluation-of-smrf-buildings-from-mechanic-based-to-data-driven-models-passed/</guid>
       <description></description>
     </item>
     
